@@ -1,4 +1,4 @@
-#### Resnet Spectral Spatial ConvLstm: A means to extract features from Hyperspectral image
+#### Pooled hybrid-spectral for hyperspectral image classification
 # Illustration
 We combined 3DCNN with Batch Normalization with some shortcut 3D CNN connections, 2DCNN and LSTM models added and they helped to overcome all the challenges which are faced during exclusively and severally applying all the supervised models at the time of Hyperspectral image classification.
 
@@ -22,3 +22,6 @@ need to copy that id from google drive and subsequently paste it on google colab
 # DATA SOURCE
 We got four different types of hyperspectral datasets namely Indian Pines, Pavia University, Botswana, and Kennedy Space Center
 from the site: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes  
+
+##Please cite:
+##Banerjee, Anasua, and Debajyoty Banik. "Pooled hybrid-spectral for hyperspectral image classification." Multimedia Tools and Applications 82.7 (2023): 10887-10899.
