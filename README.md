@@ -23,5 +23,5 @@ need to copy that id from google drive and subsequently paste it on google colab
 We got four different types of hyperspectral datasets namely Indian Pines, Pavia University, Botswana, and Kennedy Space Center
 from the site: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes  
 
-##Please cite:
-##Banerjee, Anasua, and Debajyoty Banik. "Pooled hybrid-spectral for hyperspectral image classification." Multimedia Tools and Applications 82.7 (2023): 10887-10899.
+## Please cite:
+## Banerjee, Anasua, and Debajyoty Banik. "Pooled hybrid-spectral for hyperspectral image classification." Multimedia Tools and Applications 82.7 (2023): 10887-10899.
